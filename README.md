@@ -21,11 +21,6 @@
 
 ---
 
-## GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MarcoosDev&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoosDev&layout=compact&theme=github_dark&hide_border=true)
 
 
 <div align="right">
