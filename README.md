@@ -10,7 +10,7 @@
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=python,dart,flutter,c,cpp,docker,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,dart,flutter,c,cpp,fastapi,docker,arduino)](https://skillicons.dev)
 
 ---
 
